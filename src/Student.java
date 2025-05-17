@@ -15,4 +15,6 @@ public class Student {
     public int hashCode() {
         return Objects.hash(name, age);
     }
+
+    // На проверку
 }
